@@ -1,0 +1,187 @@
+{
+    "Type": "Card",
+    "GUID": "F33F62CC3F2410B985BA8B7D1816295B",
+    "Name": "Agenda 2/2",
+    "Metadata": "",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0,
+    "Density": 0.5,
+    "SurfaceType": "Cardboard",
+    "Roughness": 1,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": true,
+    "AutoStraighten": false,
+    "ShouldSnap": true,
+    "ScriptName": "",
+    "Blueprint": "",
+    "Models": [],
+    "Collision": [],
+    "SnapPointsGlobal": false,
+    "SnapPoints": [],
+    "ZoomViewDirection": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "FrontTexture": "card/agenda/ti4-hb-absols-agendas/ti4-hb-absols-agendas.face.1.jpg",
+    "BackTexture": "card/agenda/ti4-hb-absols-agendas/ti4-hb-absols-agendas.back.jpg",
+    "HiddenTexture": "",
+    "BackIndex": -2,
+    "HiddenIndex": -1,
+    "NumHorizontal": 4,
+    "NumVertical": 5,
+    "Width": 4.2,
+    "Height": 6.3,
+    "Thickness": 0.05,
+    "HiddenInHand": true,
+    "UsedWithCardHolders": true,
+    "CanStack": true,
+    "UsePrimaryColorForSide": false,
+    "FrontTextureOverrideExposed": false,
+    "AllowFlippedInStack": false,
+    "MirrorBack": true,
+    "Model": "Rounded",
+    "Indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+    ],
+    "CardNames": {
+        "0": "New Constitution",
+        "1": "Nexus Sovereignty",
+        "2": "Pax Magnifica Bellum Gloriosum",
+        "3": "Political Censure",
+        "4": "Preservation of Historical Sites",
+        "5": "Prophecy of Ixth",
+        "6": "Public Execution",
+        "7": "Publicize Weapon Schematics",
+        "8": "Rearmament Agreement",
+        "9": "Regulated Conscription",
+        "10": "Representative Government",
+        "11": "Research Grant Reallocation",
+        "12": "Search Warrant",
+        "13": "Seed of an Empire",
+        "14": "Shared Research",
+        "15": "Swords to Plowshares",
+        "16": "Term Limits",
+        "17": "Unconventional Measures",
+        "18": "Wormhole Reconstruction",
+        "19": "Wormhole Research"
+    },
+    "CardMetadata": {
+        "0": "card.agenda:ti4-hb-absols-agendas/new-constitution",
+        "1": "card.agenda:ti4-hb-absols-agendas/nexus-sovereignty",
+        "2": "card.agenda:ti4-hb-absols-agendas/pax-magnifica-bellum-gloriosum",
+        "3": "card.agenda:ti4-hb-absols-agendas/political-censure",
+        "4": "card.agenda:ti4-hb-absols-agendas/preservation-of-historical-sites",
+        "5": "card.agenda:ti4-hb-absols-agendas/prophecy-of-ixth",
+        "6": "card.agenda:ti4-hb-absols-agendas/public-execution",
+        "7": "card.agenda:ti4-hb-absols-agendas/publicize-weapon-schematics",
+        "8": "card.agenda:ti4-hb-absols-agendas/rearmament-agreement",
+        "9": "card.agenda:ti4-hb-absols-agendas/regulated-conscription",
+        "10": "card.agenda:ti4-hb-absols-agendas/representative-government",
+        "11": "card.agenda:ti4-hb-absols-agendas/research-grant-reallocation",
+        "12": "card.agenda:ti4-hb-absols-agendas/search-warrant",
+        "13": "card.agenda:ti4-hb-absols-agendas/seed-of-an-empire",
+        "14": "card.agenda:ti4-hb-absols-agendas/shared-research",
+        "15": "card.agenda:ti4-hb-absols-agendas/swords-to-plowshares",
+        "16": "card.agenda:ti4-hb-absols-agendas/term-limits",
+        "17": "card.agenda:ti4-hb-absols-agendas/unconventional-measures",
+        "18": "card.agenda:ti4-hb-absols-agendas/wormhole-reconstruction",
+        "19": "card.agenda:ti4-hb-absols-agendas/wormhole-research"
+    },
+    "CardTags": {
+        "0": [
+            "card-agenda"
+        ],
+        "1": [
+            "card-agenda"
+        ],
+        "2": [
+            "card-agenda"
+        ],
+        "3": [
+            "card-agenda"
+        ],
+        "4": [
+            "card-agenda"
+        ],
+        "5": [
+            "card-agenda"
+        ],
+        "6": [
+            "card-agenda"
+        ],
+        "7": [
+            "card-agenda"
+        ],
+        "8": [
+            "card-agenda"
+        ],
+        "9": [
+            "card-agenda"
+        ],
+        "10": [
+            "card-agenda"
+        ],
+        "11": [
+            "card-agenda"
+        ],
+        "12": [
+            "card-agenda"
+        ],
+        "13": [
+            "card-agenda"
+        ],
+        "14": [
+            "card-agenda"
+        ],
+        "15": [
+            "card-agenda"
+        ],
+        "16": [
+            "card-agenda"
+        ],
+        "17": [
+            "card-agenda"
+        ],
+        "18": [
+            "card-agenda"
+        ],
+        "19": [
+            "card-agenda"
+        ]
+    },
+    "GroundAccessibility": "ZoomAndContext",
+    "Tags": [
+        "card-agenda"
+    ]
+}

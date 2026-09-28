@@ -1,0 +1,307 @@
+{
+    "Type": "Card",
+    "GUID": "1FC9DB2610A444A0CDDDA9715901B1D6",
+    "Name": "Agenda 1/2",
+    "Metadata": "",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0,
+    "Density": 0.5,
+    "SurfaceType": "Cardboard",
+    "Roughness": 1,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": true,
+    "AutoStraighten": false,
+    "ShouldSnap": true,
+    "ScriptName": "",
+    "Blueprint": "",
+    "Models": [],
+    "Collision": [],
+    "SnapPointsGlobal": false,
+    "SnapPoints": [],
+    "ZoomViewDirection": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "FrontTexture": "card/agenda/ti4-hb-absols-agendas/ti4-hb-absols-agendas.face.0.jpg",
+    "BackTexture": "card/agenda/ti4-hb-absols-agendas/ti4-hb-absols-agendas.back.jpg",
+    "HiddenTexture": "",
+    "BackIndex": -2,
+    "HiddenIndex": -1,
+    "NumHorizontal": 8,
+    "NumVertical": 5,
+    "Width": 4.2,
+    "Height": 6.3,
+    "Thickness": 0.05,
+    "HiddenInHand": true,
+    "UsedWithCardHolders": true,
+    "CanStack": true,
+    "UsePrimaryColorForSide": false,
+    "FrontTextureOverrideExposed": false,
+    "AllowFlippedInStack": false,
+    "MirrorBack": true,
+    "Model": "Rounded",
+    "Indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+    ],
+    "CardNames": {
+        "0": "Affirmation of Divine Right",
+        "1": "Anti Intellectual Revolution",
+        "2": "Archived Secret",
+        "3": "Armed Forces Standardization",
+        "4": "Arms Reduction",
+        "5": "Articles of War",
+        "6": "Checks and Balances",
+        "7": "Clandestine Operations",
+        "8": "Classified Document Leak",
+        "9": "Colonial Redistribution",
+        "10": "Committee Formation",
+        "11": "Compensated Disarmament",
+        "12": "Conventions of War",
+        "13": "Covert Legislation",
+        "14": "Discretionary Spending",
+        "15": "Economic Equality",
+        "16": "Emergency Session1",
+        "17": "Emergency Session2",
+        "18": "Emergency Session3",
+        "19": "Emergency Session4",
+        "20": "Enforced Travel Ban",
+        "21": "Executive Sanctions",
+        "22": "Fleet Regulations",
+        "23": "Galactic Crisis Pact",
+        "24": "Homeland Defense Act",
+        "25": "Hyperlane Development Program",
+        "26": "Imperial Arbiter",
+        "27": "Incentive Program",
+        "28": "Ixthian Artifact",
+        "29": "Judicial Abolishment",
+        "30": "Minister of Antiquities",
+        "31": "Minister of Commerce",
+        "32": "Minister of Exploration",
+        "33": "Minister of Industry",
+        "34": "Minister of Peace",
+        "35": "Minister of Policy",
+        "36": "Minister of Sciences",
+        "37": "Minister of War",
+        "38": "Miscount Disclosed",
+        "39": "Mutiny"
+    },
+    "CardMetadata": {
+        "0": "card.agenda:ti4-hb-absols-agendas/affirmation-of-divine-right",
+        "1": "card.agenda:ti4-hb-absols-agendas/anti-intellectual-revolution",
+        "2": "card.agenda:ti4-hb-absols-agendas/archived-secret",
+        "3": "card.agenda:ti4-hb-absols-agendas/armed-forces-standardization",
+        "4": "card.agenda:ti4-hb-absols-agendas/arms-reduction",
+        "5": "card.agenda:ti4-hb-absols-agendas/articles-of-war",
+        "6": "card.agenda:ti4-hb-absols-agendas/checks-and-balances",
+        "7": "card.agenda:ti4-hb-absols-agendas/clandestine-operations",
+        "8": "card.agenda:ti4-hb-absols-agendas/classified-document-leak",
+        "9": "card.agenda:ti4-hb-absols-agendas/colonial-redistribution",
+        "10": "card.agenda:ti4-hb-absols-agendas/committee-formation",
+        "11": "card.agenda:ti4-hb-absols-agendas/compensated-disarmament",
+        "12": "card.agenda:ti4-hb-absols-agendas/conventions-of-war",
+        "13": "card.agenda:ti4-hb-absols-agendas/covert-legislation",
+        "14": "card.agenda:ti4-hb-absols-agendas/discretionary-spending",
+        "15": "card.agenda:ti4-hb-absols-agendas/economic-equality",
+        "16": "card.agenda:ti4-hb-absols-agendas/emergency-session1",
+        "17": "card.agenda:ti4-hb-absols-agendas/emergency-session2",
+        "18": "card.agenda:ti4-hb-absols-agendas/emergency-session3",
+        "19": "card.agenda:ti4-hb-absols-agendas/emergency-session4",
+        "20": "card.agenda:ti4-hb-absols-agendas/enforced-travel-ban",
+        "21": "card.agenda:ti4-hb-absols-agendas/executive-sanctions",
+        "22": "card.agenda:ti4-hb-absols-agendas/fleet-regulations",
+        "23": "card.agenda:ti4-hb-absols-agendas/galactic-crisis-pact",
+        "24": "card.agenda:ti4-hb-absols-agendas/homeland-defense-act",
+        "25": "card.agenda:ti4-hb-absols-agendas/hyperlane-development-program",
+        "26": "card.agenda:ti4-hb-absols-agendas/imperial-arbiter",
+        "27": "card.agenda:ti4-hb-absols-agendas/incentive-program",
+        "28": "card.agenda:ti4-hb-absols-agendas/ixthian-artifact",
+        "29": "card.agenda:ti4-hb-absols-agendas/judicial-abolishment",
+        "30": "card.agenda:ti4-hb-absols-agendas/minister-of-antiquities",
+        "31": "card.agenda:ti4-hb-absols-agendas/minister-of-commerce",
+        "32": "card.agenda:ti4-hb-absols-agendas/minister-of-exploration",
+        "33": "card.agenda:ti4-hb-absols-agendas/minister-of-industry",
+        "34": "card.agenda:ti4-hb-absols-agendas/minister-of-peace",
+        "35": "card.agenda:ti4-hb-absols-agendas/minister-of-policy",
+        "36": "card.agenda:ti4-hb-absols-agendas/minister-of-sciences",
+        "37": "card.agenda:ti4-hb-absols-agendas/minister-of-war",
+        "38": "card.agenda:ti4-hb-absols-agendas/miscount-disclosed",
+        "39": "card.agenda:ti4-hb-absols-agendas/mutiny"
+    },
+    "CardTags": {
+        "0": [
+            "card-agenda"
+        ],
+        "1": [
+            "card-agenda"
+        ],
+        "2": [
+            "card-agenda"
+        ],
+        "3": [
+            "card-agenda"
+        ],
+        "4": [
+            "card-agenda"
+        ],
+        "5": [
+            "card-agenda"
+        ],
+        "6": [
+            "card-agenda"
+        ],
+        "7": [
+            "card-agenda"
+        ],
+        "8": [
+            "card-agenda"
+        ],
+        "9": [
+            "card-agenda"
+        ],
+        "10": [
+            "card-agenda"
+        ],
+        "11": [
+            "card-agenda"
+        ],
+        "12": [
+            "card-agenda"
+        ],
+        "13": [
+            "card-agenda"
+        ],
+        "14": [
+            "card-agenda"
+        ],
+        "15": [
+            "card-agenda"
+        ],
+        "16": [
+            "card-agenda"
+        ],
+        "17": [
+            "card-agenda"
+        ],
+        "18": [
+            "card-agenda"
+        ],
+        "19": [
+            "card-agenda"
+        ],
+        "20": [
+            "card-agenda"
+        ],
+        "21": [
+            "card-agenda"
+        ],
+        "22": [
+            "card-agenda"
+        ],
+        "23": [
+            "card-agenda"
+        ],
+        "24": [
+            "card-agenda"
+        ],
+        "25": [
+            "card-agenda"
+        ],
+        "26": [
+            "card-agenda"
+        ],
+        "27": [
+            "card-agenda"
+        ],
+        "28": [
+            "card-agenda"
+        ],
+        "29": [
+            "card-agenda"
+        ],
+        "30": [
+            "card-agenda"
+        ],
+        "31": [
+            "card-agenda"
+        ],
+        "32": [
+            "card-agenda"
+        ],
+        "33": [
+            "card-agenda"
+        ],
+        "34": [
+            "card-agenda"
+        ],
+        "35": [
+            "card-agenda"
+        ],
+        "36": [
+            "card-agenda"
+        ],
+        "37": [
+            "card-agenda"
+        ],
+        "38": [
+            "card-agenda"
+        ],
+        "39": [
+            "card-agenda"
+        ]
+    },
+    "GroundAccessibility": "ZoomAndContext",
+    "Tags": [
+        "card-agenda"
+    ]
+}
