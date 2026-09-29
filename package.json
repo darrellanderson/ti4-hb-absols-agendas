@@ -1,5 +1,5 @@
 {
-  "name": "ti4-hb-discordant-stars",
+  "name": "ti4-absols-agendas",
   "version": "1.0.0",
   "scripts": {
     "setup": "ttpg-scripts setup",
@@ -20,5 +20,8 @@
     "ti4-hb-helper": "^1.1.28",
     "ttpg-scripts": "^1.5.0",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ti4-ttpg-ts": "^1.0.26"
   }
 }
