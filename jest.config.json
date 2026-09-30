@@ -2,7 +2,7 @@
   "preset": "ts-jest",
   "testEnvironment": "node",
   "setupFilesAfterEnv": [
-    "/Users/darrell/ttpg/TI4-TTPG-TS/build/global/global.js",
+    "./node_modules/ti4-ttpg-ts/dist/index.cjs",
     "/Users/darrell/ttpg/TI4-TTPG-TS/build/global/jest-setup.js"
   ],
   "moduleNameMapper": {

@@ -3559,9 +3559,9 @@ ti4-hb-helper@^1.1.28:
     typescript "^5.9.2"
 
 ti4-ttpg-ts@^1.0.26:
-  version "1.0.26"
-  resolved "https://registry.yarnpkg.com/ti4-ttpg-ts/-/ti4-ttpg-ts-1.0.26.tgz#bb4b40676a968ebd95c1d93bb5d4019518e02aca"
-  integrity sha512-tavIPRVnDR8KsE0LvYbiNNbJRDedUtXA9GephNjaQPfJayYsb90VZZIdLnVWrQMiPM7pT4zQwljwq5o3Isfu6A==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/ti4-ttpg-ts/-/ti4-ttpg-ts-1.1.1.tgz#406ea9f58a5fc0af18965ae413adb34d87ddcc44"
+  integrity sha512-+6Rqt/PjHbAh+pM4H/I5FotZh5UKK5cHUQy7N17S/jxKNlNNhL6BzWWUCRZMEWLsYAqYf4lTJdS6j2V05DIsKg==
   dependencies:
     "@types/lodash" "^4.17.21"
     lodash "^4.17.21"
