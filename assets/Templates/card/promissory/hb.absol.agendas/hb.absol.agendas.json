@@ -1,0 +1,115 @@
+{
+    "Type": "Card",
+    "GUID": "76F3EC018650C9EB357BE1E81F3FDFB2",
+    "Name": "Promissory",
+    "Metadata": "",
+    "CollisionType": "Regular",
+    "Friction": 0.7,
+    "Restitution": 0,
+    "Density": 0.5,
+    "SurfaceType": "Cardboard",
+    "Roughness": 1,
+    "Metallic": 0,
+    "PrimaryColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255
+    },
+    "SecondaryColor": {
+        "R": 0,
+        "G": 0,
+        "B": 0
+    },
+    "Flippable": true,
+    "AutoStraighten": false,
+    "ShouldSnap": true,
+    "ScriptName": "",
+    "Blueprint": "",
+    "Models": [],
+    "Collision": [],
+    "SnapPointsGlobal": false,
+    "SnapPoints": [],
+    "ZoomViewDirection": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "FrontTexture": "card/promissory/hb.absol.agendas/hb.absol.agendas.face.jpg",
+    "BackTexture": "card/promissory/hb.absol.agendas/hb.absol.agendas.back.jpg",
+    "HiddenTexture": "",
+    "BackIndex": -2,
+    "HiddenIndex": -1,
+    "NumHorizontal": 2,
+    "NumVertical": 4,
+    "Width": 4.2,
+    "Height": 6.3,
+    "Thickness": 0.05,
+    "HiddenInHand": true,
+    "UsedWithCardHolders": true,
+    "CanStack": true,
+    "UsePrimaryColorForSide": false,
+    "FrontTextureOverrideExposed": false,
+    "AllowFlippedInStack": false,
+    "MirrorBack": true,
+    "Model": "Rounded",
+    "Indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "CardNames": {
+        "0": "Political Secret Black",
+        "1": "Political Secret Blue",
+        "2": "Political Secret Green",
+        "3": "Political Secret Orange",
+        "4": "Political Secret Pink",
+        "5": "Political Secret Purple",
+        "6": "Political Secret Red",
+        "7": "Political Secret Yellow"
+    },
+    "CardMetadata": {
+        "0": "card.promissory:hb.absol.agendas/political-secret-black",
+        "1": "card.promissory:hb.absol.agendas/political-secret-blue",
+        "2": "card.promissory:hb.absol.agendas/political-secret-green",
+        "3": "card.promissory:hb.absol.agendas/political-secret-orange",
+        "4": "card.promissory:hb.absol.agendas/political-secret-pink",
+        "5": "card.promissory:hb.absol.agendas/political-secret-purple",
+        "6": "card.promissory:hb.absol.agendas/political-secret-red",
+        "7": "card.promissory:hb.absol.agendas/political-secret-yellow"
+    },
+    "CardTags": {
+        "0": [
+            "card-promissory"
+        ],
+        "1": [
+            "card-promissory"
+        ],
+        "2": [
+            "card-promissory"
+        ],
+        "3": [
+            "card-promissory"
+        ],
+        "4": [
+            "card-promissory"
+        ],
+        "5": [
+            "card-promissory"
+        ],
+        "6": [
+            "card-promissory"
+        ],
+        "7": [
+            "card-promissory"
+        ]
+    },
+    "GroundAccessibility": "ZoomAndContext",
+    "Tags": [
+        "card-promissory"
+    ]
+}
