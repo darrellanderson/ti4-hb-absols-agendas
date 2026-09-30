@@ -1,4 +1,4 @@
 export const NSID_TO_TEMPLATE_ID: { [key: string]: string } = {
-  "card.agenda:ti4-hb-absols-agendas/0": "1FC9DB2610A444A0CDDDA9715901B1D6",
-  "card.agenda:ti4-hb-absols-agendas/1": "F33F62CC3F2410B985BA8B7D1816295B"
+  "card.agenda:hb.absol.agendas/0": "3964090E49B75C72669F77E229611F2A",
+  "card.agenda:hb.absol.agendas/1": "5A398133C1CDF7A0F6258D7A380E5226"
 };
