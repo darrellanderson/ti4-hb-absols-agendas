@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "checkJs": true,
+    "isolatedModules": true,
     "lib": ["ES2023", "DOM"],
     "module": "node16",
     "strict": true,

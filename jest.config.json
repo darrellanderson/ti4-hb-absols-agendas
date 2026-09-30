@@ -3,7 +3,7 @@
   "testEnvironment": "node",
   "setupFilesAfterEnv": [
     "./node_modules/ti4-ttpg-ts/dist/index.cjs",
-    "/Users/darrell/ttpg/TI4-TTPG-TS/build/global/jest-setup.js"
+    "./src/jest-setup.ts"
   ],
   "moduleNameMapper": {
     "^@tabletop-playground/api$": "ttpg-mock"
