@@ -5,13 +5,27 @@ it("generate", async () => {
   let abstractGen: AbstractGen;
   const errors: Array<string> = [];
 
-  abstractGen = new GenExtDeck(homebrew)
+  const colorNames: Array<string> = [
+    "white",
+    "blue",
+    "purple",
+    "green",
+    "red",
+    "yellow",
+    "pink",
+    "orange",
+  ];
+
+  const promissoryGen: GenExtDeck = new GenExtDeck(homebrew) // need type for addSubtype
     .setDeckType("promissory")
     .setIsLandscape(false)
     .setIsSharedBack(true)
     .setTag("card-promissory");
-  await abstractGen.generate(errors);
-  await abstractGen.writeOutputFiles();
+  colorNames.forEach((colorName) => {
+    promissoryGen.addSubtype(`political-secret-${colorName}`, colorName);
+  });
+  await promissoryGen.generate(errors);
+  await promissoryGen.writeOutputFiles();
 
   await generate(homebrew);
 
