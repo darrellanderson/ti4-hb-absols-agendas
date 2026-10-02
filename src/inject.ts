@@ -47,22 +47,18 @@ function injectPoliticalSecretCards(): void {
   });
 }
 
-// Wait a tick for added package to be fully loaded.
 // Only add political secret cards if not already injected!
-process.nextTick(() => {
-  let found: boolean = false;
-  for (const obj of world.getAllObjects(true)) {
-    const nsid: string = NSID.get(obj);
-    if (
-      nsid.startsWith("card.promissory") &&
-      nsid.includes(`:${homebrew.sourceAndPackageId.source}/`)
-    ) {
-      found = true;
-      break;
-    }
+let found: boolean = false;
+for (const obj of world.getAllObjects(true)) {
+  const nsid: string = NSID.get(obj);
+  if (
+    nsid.startsWith("card.promissory") &&
+    nsid.includes(`:${homebrew.sourceAndPackageId.source}/`)
+  ) {
+    found = true;
+    break;
   }
-
-  if (!found) {
-    injectPoliticalSecretCards();
-  }
-});
+}
+if (!found) {
+  injectPoliticalSecretCards();
+}
